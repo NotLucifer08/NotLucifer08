@@ -7,21 +7,21 @@
 
   <br><br>
 
-  <!-- 2. PROJECT LIST (Top Repositories) -->
+  <!-- 2. PROJECT LIST (Fixed with your actual repositories) -->
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://github.com/NotLucifer08/YOUR_REPO_NAME_1">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NotLucifer08&repo=YOUR_REPO_NAME_1&bg_color=090c10&title_color=38bdf8&text_color=94a3b8&icon_color=4ade80&border_color=2d3748&show_icons=true" width="48%" alt="Project 1" />
+    <a href="https://github.com/NotLucifer08/Instagram-bot">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NotLucifer08&repo=Instagram-bot&bg_color=090c10&title_color=38bdf8&text_color=94a3b8&icon_color=4ade80&border_color=2d3748&show_icons=true" width="48%" alt="Instagram Bot Project" />
     </a>
-    <a href="https://github.com/NotLucifer08/YOUR_REPO_NAME_2">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NotLucifer08&repo=YOUR_REPO_NAME_2&bg_color=090c10&title_color=38bdf8&text_color=94a3b8&icon_color=a855f7&border_color=2d3748&show_icons=true" width="48%" alt="Project 2" />
+    <a href="https://github.com/NotLucifer08/NotLucifer08">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NotLucifer08&repo=NotLucifer08&bg_color=090c10&title_color=38bdf8&text_color=94a3b8&icon_color=a855f7&border_color=2d3748&show_icons=true" width="48%" alt="NotLucifer08 Profile Repo" />
     </a>
   </div>
 
   <br><br>
 
-  <!-- 3. CONTRIBUTION ACTIVITY (Graph) -->
+  <!-- 3. CONTRIBUTION ACTIVITY (Fixed: Replaced broken API with stable Streak Stats) -->
   <a href="https://github.com/NotLucifer08">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NotLucifer08&bg_color=090c10&color=38bdf8&line=4ade80&point=ffffff&area=true&hide_border=false&border_color=2d3748&custom_title=Contribution%20Activity" width="100%" alt="Activity Graph" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NotLucifer08&theme=dark&background=090c10&border=2d3748&stroke=38bdf8&ring=4ade80&fire=38bdf8&currStreakLabel=38bdf8" width="100%" alt="Streak Stats" />
   </a>
 
   <br><br>
